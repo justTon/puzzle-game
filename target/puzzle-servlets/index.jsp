@@ -61,6 +61,8 @@
                 <td align="right">
                     <select name="theme" id="theme">
                         <option value="colors">Colors</option>
+                        <option value="coins">Coins</option>
+                        <option value="shapes">Shapes</option>
                     </select>
                 </td>
             </tr>
