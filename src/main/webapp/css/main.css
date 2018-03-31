@@ -1,0 +1,30 @@
+.wrapper {
+    text-align: center;
+}
+
+.playfield {
+    height: 75%;
+    display: flex;
+    justify-content: center;
+}
+
+.divTable {
+    display: table;
+    width: 80%;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableCell {
+    border: 1px solid #999999;
+    display: table-cell;
+    padding: 3px 10px;
+}
+
+.divTableBody {
+    display: table-row-group;
+}

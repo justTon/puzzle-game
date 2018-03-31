@@ -1,0 +1,9 @@
+package ru.ssau.daria;
+
+public interface Const {
+
+    int NUMBER_OF_SIMILAR_CARDS = 2;
+    int MAXIMUM_HORIZONTAL = 8;
+    int MAXIMUM_VERTICAL = 4;
+    int MAXIMUM_NUMBER_OF_DISTINCT_IMAGES = (MAXIMUM_HORIZONTAL * MAXIMUM_VERTICAL) / NUMBER_OF_SIMILAR_CARDS;
+}
